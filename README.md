@@ -110,3 +110,8 @@
 
 * [Normalizar ou padronizar as variáveis?](https://medium.com/data-hackers/normalizar-ou-padronizar-as-vari%C3%A1veis-3b619876ccc9)
 * [Porquê e Quando é Necessário Normalizar os Dados](https://medium.com/tentando-ser-um-unic%C3%B3rnio/porqu%C3%AA-e-quando-%C3%A9-necess%C3%A1rio-normalizar-os-dados-92e5cce445aa)
+
+
+# Créditos
+
+Esse documento foi originalmente compilado por Rodrigo Azevedo [@razevedo1994](https://github.com/razevedo1994)
