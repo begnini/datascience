@@ -55,10 +55,10 @@
 * [Classification Algorithms Comparison](https://www.kaggle.com/metetik/classification-algorithms-comparison)
 * [Having an Imbalanced Dataset? Here Is How You Can Fix It.](https://towardsdatascience.com/having-an-imbalanced-dataset-here-is-how-you-can-solve-it-1640568947eb?gi=c6f1dbc08f4e)
 * [Foundations of Imbalanced Learning - PDF](https://pdfs.semanticscholar.org/1678/7e213ed0a5c0cf9baabdb45f9df631248a91.pdf)
-* [Data Mining for IMbalanced Datasets - An OverView - PDF](https://www3.nd.edu/~dial/publications/chawla2005data.pdf)
+* [Data Mining for Imbalanced Datasets - An OverView - PDF](https://www3.nd.edu/~dial/publications/chawla2005data.pdf)
 * [An Introduction to Logistic Regression: From Basic Concepts to Interpretation with Particular Attention to Nursing Domain - PDF](https://pdfs.semanticscholar.org/3305/2b1d2363aee3ad290612109dcea0aed2a89e.pdf)
-* [Explaining the Success of NearestNeighbor Methods in Prediction - PDF](https://devavrat.mit.edu/wp-content/uploads/2018/03/nn_survey.pdf)
-* [Classification:Basic Concepts,Decision Trees, andModel Evaluation - PDF ](https://www-users.cs.umn.edu/~kumar001/dmbook/ch4.pdf)
+* [Explaining the Success of Nearest Neighbor Methods in Prediction - PDF](https://devavrat.mit.edu/wp-content/uploads/2018/03/nn_survey.pdf)
+* [Classification: Basic Concepts, Decision Trees, and Model Evaluation - PDF ](https://www-users.cs.umn.edu/~kumar001/dmbook/ch4.pdf)
 
 ## Analise Exploratória
 
